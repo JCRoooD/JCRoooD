@@ -11,7 +11,7 @@
 * Love sports and tech!
 * Software Developer :computer: and Baseball player :baseball:
 * Looking to help a team create an impact in a company
-* Graduated with B.A in Accounting in 2022; Graduated 9-Month certification Holberton Coding School
+* Graduated with B.A in Accounting in 2022; Graduated 9-Month certification Holberton Coding School in March 2024
 
 ## Languages
 
